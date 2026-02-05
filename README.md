@@ -33,12 +33,14 @@ I code with the passion of "pasiones" and the resilience of Vietnamese spirit.
 
 </div>
 
-## 📈 Activity
+## 📈 GitHub Stats
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pasiones&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasiones&theme=dracula&hide_border=true" height="165" alt="GitHub Streak"/>
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pasiones&theme=dracula&hide_border=true)
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pasiones&theme=dracula&hide_border=true)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasiones&theme=dracula&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
 </div>
 
 ## 🎯 Currently
