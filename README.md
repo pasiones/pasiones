@@ -22,8 +22,8 @@ I code with the passion of "pasiones" and the resilience of Vietnamese spirit.
 ## 🛠️ Tech Stack
 <div align="center">
 
-![Frontend](https://skillicons.dev/icons?i=js,ts,react,vue,html,css,tailwind&perline=10)
-![Backend](https://skillicons.dev/icons?i=nodejs,python,java,spring,mongodb,postgres&perline=10)
+![Frontend](https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind&perline=10)
+![Backend](https://skillicons.dev/icons?i=nodejs,python,flask,fastapi,java,spring,mongodb,postgres,mariadb&perline=10)
 ![Tools](https://skillicons.dev/icons?i=git,docker,aws,figma,vscode&perline=10)
 
 </div>
@@ -50,7 +50,7 @@ I code with the passion of "pasiones" and the resilience of Vietnamese spirit.
 - 👯 **Looking to collaborate on:** Open source projects
 - 💬 **Ask me about:** Web development, Vietnamese tech scene
 - 📫 **How to reach me:** [Your preferred contact method]
-- ⚡ **Fun fact:** I enjoy [your hobby] and Vietnamese coffee!
+- ⚡ **Fun fact:** I enjoy playing badminton!
 
 ## 🌸 Featured Projects
 | Project | Description | Tech Stack |
