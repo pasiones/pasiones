@@ -28,14 +28,6 @@ I code with the passion of "pasiones" and the resilience of Vietnamese spirit.
 
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
-
-![Pasiones's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasiones&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasiones&layout=compact&theme=dracula&hide_border=true)
-
-</div>
-
 ## 📈 Activity
 <div align="center">
 
