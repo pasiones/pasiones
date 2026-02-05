@@ -5,11 +5,11 @@
 ![Vietnamese Developer](https://img.shields.io/badge/Vietnamese_Developer-FF0000?style=for-the-badge&labelColor=FCD116)
 ![Passionate Coder](https://img.shields.io/badge/Pasiones-Coder-FF6B6B?style=for-the-badge)
 
-*A Vietnamese developer with Spanish nickname, creating global solutions*
+*A Vietnamese developer creating global solutions*
 
 [![GitHub](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasiones)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-lam-dat-2a0b56249/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:datminh04@gmail.com)
 
 ---
 
