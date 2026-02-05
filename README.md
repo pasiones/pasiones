@@ -33,22 +33,6 @@ I code with the passion of "pasiones" and the resilience of Vietnamese spirit.
 
 </div>
 
-## 📈 GitHub Stats
-<div align="center">
-  <a href="https://github.com/pasiones">
-    <img src="https://github-readme-stats.vercel.app/api?username=pasiones&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/pasiones">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasiones&theme=dracula&hide_border=true" height="165" alt="GitHub Streak"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/pasiones">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasiones&theme=dracula&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
-  </a>
-</div>
-
 ## 🎯 Currently
 - 🔭 **Working on:** Master's in Web, Software and Cloud at Tampere University (2025-2027)
 - 🌱 **Learning:** AWS Solutions Architect certification, Kubernetes orchestration
