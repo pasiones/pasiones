@@ -45,6 +45,7 @@ I code with the passion of "pasiones" and the resilience of Vietnamese spirit.
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Zero-Fail Logistics Solution](https://github.com/vincentbui21/Hackathon2025) | End-to-end automated delivery solution for Valio Aimo (6th place at Junction Hackathon 2025). Predictive ML models with XGBoost, AI-powered customer communication with LangChain. | Python, XGBoost, LangChain, FastAPI, React, TypeScript |
+| [E-commerce Store](https://github.com/pasiones/e-commerce-store) | Full-stack MERN e-commerce app with user auth, product browsing, shopping cart, order management, admin panel, and Docker deployment. | MongoDB, Express.js, React, Node.js, Docker |
 | [NPM Dependency Visualization Tool](https://npm-dependency-explorer.vercel.app/) | Interactive graphical tool to visualize and analyze npm package dependencies. Bachelor's Thesis project. | React, D3.js, JavaScript |
 | [Smart Travel Companion](http://79.76.39.35/) | Weather-based activity recommendation web app with interactive maps and location suggestions. | FastAPI, React, TypeScript, Oracle Cloud |
 | [Real-Time Weather Desktop App](https://github.com/pasiones/Java-Weather-App) | Desktop application displaying real-time weather data with an intuitive JavaFX interface. | Java, JavaFX, Git, CI/CD |
