@@ -29,7 +29,7 @@ I code with the passion of "pasiones" and the resilience of Vietnamese spirit.
 
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=10)
 ![Backend](https://skillicons.dev/icons?i=java,nodejs,python,flask,fastapi,postgres,mysql&perline=10)
-![Tools](https://skillicons.dev/icons?i=git,gitlab,docker,kubernetes,terraform,ansible,gcp,azure&perline=10)
+![Tools](https://skillicons.dev/icons?i=git,gitlab,docker,kubernetes,terraform,gcp,azure&perline=10)
 
 </div>
 
