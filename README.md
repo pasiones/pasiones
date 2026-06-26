@@ -15,16 +15,16 @@
 
 </div>
 
-## 🌊 My Journey
+##  My Journey
 From the bustling streets of Vietnam to the global digital landscape,  
 I code with the passion of "pasiones" and the resilience of Vietnamese spirit.
 
-🎓 **Education:**
+ **Education:**
 - **M.Sc. in Web, Software and Cloud** - Tampere University (2025-2027)
 - **B.Sc. in Electrical and Computer Engineering** - Tampere University (2022-2025)
   - Major: Software Development | Minor: Machine Learning
 
-## 🛠️ Tech Stack
+##  Tech Stack
 <div align="center">
 
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&perline=10)
@@ -33,15 +33,15 @@ I code with the passion of "pasiones" and the resilience of Vietnamese spirit.
 
 </div>
 
-## 🎯 Currently
-- 🔭 **Working on:** Master's in Web, Software and Cloud at Tampere University (2025-2027)
-- 🌱 **Learning:** AWS Solutions Architect certification, Kubernetes orchestration
-- 👯 **Looking to collaborate on:** AI/ML projects, Full-stack applications, DevOps automation
-- 💬 **Ask me about:** Full-Stack Development, AI/ML Engineering, Cloud & DevOps
-- 📫 **How to reach me:** [datminh04@gmail.com](mailto:datminh04@gmail.com)
-- ⚡ **Fun fact:** I enjoy playing badminton!
+##  Currently
+-  **Working on:** Master's in Web, Software and Cloud at Tampere University (2025-2027)
+-  **Learning:** AWS Solutions Architect certification, Kubernetes orchestration
+-  **Looking to collaborate on:** AI/ML projects, Full-stack applications, DevOps automation
+-  **Ask me about:** Full-Stack Development, AI/ML Engineering, Cloud & DevOps
+-  **How to reach me:** [datminh04@gmail.com](mailto:datminh04@gmail.com)
+-  **Fun fact:** I enjoy playing badminton!
 
-## 🌸 Featured Projects
+##  Featured Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Zero-Fail Logistics Solution](https://github.com/vincentbui21/Hackathon2025) | End-to-end automated delivery solution for Valio Aimo (6th place at Junction Hackathon 2025). Predictive ML models with XGBoost, AI-powered customer communication with LangChain. | Python, XGBoost, LangChain, FastAPI, React, TypeScript |
@@ -55,7 +55,7 @@ I code with the passion of "pasiones" and the resilience of Vietnamese spirit.
 
 <div align="center">
 
-## 🎋 Vietnamese Wisdom
+##  Vietnamese Wisdom
 > *"Có công mài sắt, có ngày nên kim"*  
 > *(With perseverance, even iron can be sharpened into a needle)*
 
