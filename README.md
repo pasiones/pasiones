@@ -15,10 +15,6 @@
 
 </div>
 
-##  My Journey
-From the bustling streets of Vietnam to the global digital landscape,  
-I code with the passion of "pasiones" and the resilience of Vietnamese spirit.
-
  **Education:**
 - **M.Sc. in Web, Software and Cloud** - Tampere University (2025-2027)
 - **B.Sc. in Electrical and Computer Engineering** - Tampere University (2022-2025)
