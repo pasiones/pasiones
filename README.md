@@ -56,8 +56,6 @@
 **Thank you for visiting my profile!**  
 *Let's connect and build something amazing together*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=pasiones&color=red&style=flat)
-
 </div>
 
 <!--
