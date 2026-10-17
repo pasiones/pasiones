@@ -1,6 +1,6 @@
 <div align="center">
 
-# Xin chào! I'm Dat Minh Lam 🇻🇳
+# Xin chào! I'm Dat Minh Lam 
 
 ![Vietnamese Developer](https://img.shields.io/badge/Vietnamese_Developer-FF0000?style=for-the-badge&labelColor=FCD116)
 ![Passionate Coder](https://img.shields.io/badge/Pasiones-Coder-FF6B6B?style=for-the-badge)
