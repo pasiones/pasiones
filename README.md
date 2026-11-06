@@ -7,7 +7,7 @@
 
 *A Vietnamese developer creating global solutions*
 
-[![Personal Website]](https://datminh-lam-portfolio.vercel.app/)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://datminh-lam-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-lam-dat-2a0b56249/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:datminh04@gmail.com)
 
